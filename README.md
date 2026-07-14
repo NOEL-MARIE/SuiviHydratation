@@ -120,7 +120,7 @@ Ce projet est distribué sous licence MIT. Voir le fichier `LICENSE` pour plus d
 
 ## 👤 Auteur
 
-**DUPPONT MOEL**
+**DE GONZAGUE **
 Étudiant en Licence Professionnelle Réseaux & Génie Logiciel (LPRGL3)
 Pigier Côte d'Ivoire
 
